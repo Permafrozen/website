@@ -1,0 +1,15 @@
+[book]
+authors = ["Permafrozen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dot-Nixe Documentation"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+mathjax-support = false
+site-url = "/dot-nixe-docs/"
+git-repository-url = "https://github.com/Permafrozen/dot-nixe"
+git-repository-icon = "fa-github"
