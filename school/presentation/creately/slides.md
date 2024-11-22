@@ -8,18 +8,11 @@ by Timo Hummer & Matteo Garbardi
 
 - **Visual Collaboration**
 
-  - visual collaboration tool combining diagramming, whiteboarding, and project planning
-
 - **Flexible Diagrams**
-
-  - supports hundreds of diagram types, including ER, flowcharts, mind maps, network analyses, ...
 
 - **Data Integration**
 
-  - users can integrate data sources to create dynamic visualizations.
-
 - **Team Collaboration**
-  - Real-time collaboration, commenting features, version control, ...
 
 ---
 
@@ -35,25 +28,30 @@ by Timo Hummer & Matteo Garbardi
 
 - **Enterprise**
 
----
+--
 
 ## Free
 
---
-
-## Pro
-
---
-
-## Team
+- **very limited**
+    - no collaboration
+    - limted access to features
+        - *Slides, Tasks, Data, Archive, ...*
 
 --
 
-## Business
+## Pro (5€ / month)
 
 --
 
-## Enterprise
+## Team (5€ / month)
+
+--
+
+## Business (89€ / month)
+
+--
+
+## Enterprise (custom pricing)
 
 ---
 
