@@ -3,14 +3,16 @@
 by Timo Hummer & Matteo Garbardi
 
 ---
+
 ## General
 
-Creatly is a ER Tool (TODO)
+TODO
+
 ---
 
 ## Editions
 
-You can use Markdown syntax, like **bold text** or _italic text_.
+TODO
 
 ---
 
