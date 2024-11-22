@@ -42,18 +42,26 @@ by Timo Hummer & Matteo Garbardi
 ## Pro
 
 - **5€ / month**
+- **5000 items per canvas**
 
 --
 
 ## Team
 
 - **5€ / month**
+- **at least 2 users**
+- **Account management portal**
+    - *"advanced collaboration"*
+- ***...***
 
 --
 
 ## Business
 
 - **89€ / month**
+- **team + ...**
+    - *50.000 items per canvas*
+    - *MS Teams, Github, Slack integration*
 
 --
 
