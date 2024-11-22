@@ -7,34 +7,53 @@ by Timo Hummer & Matteo Garbardi
 ## General
 
 - **Visual Collaboration**
-    - visual collaboration tool combining diagramming, whiteboarding, and project planning
+
+  - visual collaboration tool combining diagramming, whiteboarding, and project planning
 
 - **Flexible Diagrams**
-    - supports hundreds of diagram types, including ER, flowcharts, mind maps, network analyses, ...
+
+  - supports hundreds of diagram types, including ER, flowcharts, mind maps, network analyses, ...
 
 - **Data Integration**
-    - users can integrate data sources to create dynamic visualizations.
+
+  - users can integrate data sources to create dynamic visualizations.
 
 - **Team Collaboration**
-    - Real-time collaboration, commenting features, version control, ...
+  - Real-time collaboration, commenting features, version control, ...
 
 ---
 
 ## Editions
 
-TODO
+- **Free**
+
+- **Pro**
+
+- **Team**
+
+- **Business**
+
+- **Enterprise**
+
+---
+
+## Free
 
 --
 
-## Sigma Edition
+## Pro
 
 --
 
-## Alpha Edition
+## Team
 
 --
 
-## Beta Edition
+## Business
+
+--
+
+## Enterprise
 
 ---
 
