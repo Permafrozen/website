@@ -33,25 +33,33 @@ by Timo Hummer & Matteo Garbardi
 ## Free
 
 - **very limited**
-    - no collaboration
-    - limted access to features
-        - *Slides, Tasks, Data, Archive, ...*
+  - no collaboration
+  - limted access to features
+    - _Slides, Tasks, Data, Archive, ..._
 
 --
 
-## Pro (5€ / month)
+## Pro
+
+- **5€ / month**
 
 --
 
-## Team (5€ / month)
+## Team
+
+- **5€ / month**
 
 --
 
-## Business (89€ / month)
+## Business
+
+- **89€ / month**
 
 --
 
-## Enterprise (custom pricing)
+## Enterprise
+
+- **custom pricing**
 
 ---
 
