@@ -6,13 +6,17 @@ by Timo Hummer & Matteo Garbardi
 
 ## General
 
-- **Visual Collaboration:** Creately is a visual collaboration tool combining diagramming, whiteboarding, and project planning in one platform.
+- **Visual Collaboration**
+    - visual collaboration tool combining diagramming, whiteboarding, and project planning
 
-- **Flexible Diagrams:** It supports hundreds of diagram types, including flowcharts, mind maps, and network analyses.
+- **Flexible Diagrams**
+    - supports hundreds of diagram types, including ER, flowcharts, mind maps, network analyses, ...
 
-- **Data Integration:** Users can integrate data sources to create dynamic visualizations and workflows.
+- **Data Integration**
+    - users can integrate data sources to create dynamic visualizations.
 
-- **Team Collaboration:** Real-time collaboration, commenting features, and version control enhance teamwork.
+- **Team Collaboration**
+    - Real-time collaboration, commenting features, version control, ...
 
 ---
 
