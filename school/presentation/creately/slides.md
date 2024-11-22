@@ -6,14 +6,13 @@ by Timo Hummer & Matteo Garbardi
 
 ## General
 
-Creately is not only an ER-modeling tool, but a visual collaboration platform that makes it easier for teams to collaborate and work more efficiently together. A infinite canvas serves as a central hub, where one can:
+- **Visual Collaboration:** Creately is a visual collaboration tool combining diagramming, whiteboarding, and project planning in one platform.
 
-- Brainstrom &  Ideate
-- Diagram & Visualize
-- Plan & Strategize
-- Run Worshops & Meetings
-- Manage Projects
-- Research & Analysis
+- **Flexible Diagrams:** It supports hundreds of diagram types, including flowcharts, mind maps, and network analyses.
+
+- **Data Integration:** Users can integrate data sources to create dynamic visualizations and workflows.
+
+- **Team Collaboration:** Real-time collaboration, commenting features, and version control enhance teamwork.
 
 ---
 
