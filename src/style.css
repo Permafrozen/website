@@ -1,6 +1,50 @@
 :root {
+  --bg-color: #000;
+  --fg-color: #33ff33;
 }
 
 body {
-  font-family: "Hack Nerd Font", monospace;
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  line-height: 1.4;
+  margin: 0;
+  padding: 20px;
+}
+
+.terminal {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.terminal::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%);
+  background-size: 100% 4px;
+  pointer-events: none;
+  z-index: 1000;
+}
+
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+.cursor {
+  display: inline-block;
+  width: 10px;
+  height: 20px;
+  background-color: #33ff33;
+  animation: blink 1s step-end infinite;
 }
