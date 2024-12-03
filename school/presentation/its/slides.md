@@ -1,98 +1,72 @@
-# Creately
+# Personelle Maßnahmen
 
-by Timo Hummer & Matteo Garbardi
+von Timo Hummer & Matteo Garbardi
 
----
-
-## General
-
-- **Visual Collaboration**
-
-- **Flexible Diagrams**
-
-- **Data Integration**
-
-- **Team Collaboration**
+# Personelle Maßnahmen
 
 ---
 
-## Editions
+## Regelungen für Mitarbeiter
 
-- **Free**
-
-- **Pro**
-
-- **Team**
-
-- **Business**
-
-- **Enterprise**
-
---
-
-## Free
-
-- **very limited**
-  - no collaboration
-  - limted access to features
-    - _Slides, Tasks, Data, Archive, ..._
-
---
-
-## Pro
-
-- **5€ / month**
-- **5000 items per canvas**
-
---
-
-## Team
-
-- **5€ / month**
-- **at least 2 users**
-- **Account management portal**
-    - *"advanced collaboration"*
-- ***...***
-
---
-
-## Business
-
-- **89€ / month**
-- **team + ...**
-    - *50.000 items per canvas*
-    - *MS Teams, Github, Slack integration*
-
---
-
-## Enterprise
-
-- **custom pricing**
+- **Verpflichtungserklärung** zu unterzeichnen
+- Regelungsbereiche:
+  - **PC-Benutzungsregeln**
+  - **Regeln** für Internet- und E-Mail-Nutzung
+  - **Verpflichtungserklärung** (NDA/CDA) auf *Datengeheimnis*
 
 ---
 
-## Supported Notations
+## Briefing für Mitarbeiter
 
-TODO
-
----
-
-## Advatages
-
-TODO
-
---
-
-## Software Advantages
-
---
-
-## Modeling Advantages
+- Hinweis auf interne **Regelungen**, Gepflogenheiten und IT-Verfahrensweisen
+- Konsequenzen bei Versäumnis:
+  - Keine **Ansprechpersonen** für Sicherheitsfragen
+  - Keine Kenntnis einzuhaltender **Maßnahmen**
+- Sicherheitsrelevante Aufgaben in Stellenbeschreibungen aufnehmen
+- Besonderer Fokus: **IT-Administratoren**
 
 ---
 
-## Usability
+## Verfahren bei Personellen Veränderungen
+
+**Grundlegende Punkte:**
+- Rückgabe von **Unterlagen**, Schlüsseln und IT-Geräten
+- Anpassung oder Entzug von **Zugangsberechtigungen**
+- Änderung geteilter **Zugangsberechtigungen**
+- Vermeidung der Neuvergabe bestehender **Benutzerkonten**
 
 ---
 
-## Additional Functionality
+## Regelungen für den Einsatz von Fremdpersonen
+
+- Schriftliche **Verpflichtung** für längerfristige externe Mitarbeiter
+- Behandlung kurzfristiger externer Arbeitskräfte als **Besucher**
+- Sicherheitsmaßnahmen bei fehlender Betreuung
+
+---
+
+## Sicherheitssensibilisierung und Schulung
+
+- **Schulungen** für alle Mitarbeiter
+- Schulungsbeispiele:
+  - Abhängigkeit des Unternehmens von **IT-Systemen**
+  - Korrekter Umgang mit **Passwörtern**
+  - Umgang mit *personenbezogenen Daten*
+
+---
+
+## Abwehr von Social Engineering Angriffen
+
+---
+
+## Clear Desk/ Clear Screen Policy
+
+---
+
+## Entsorgung von Datenträgern und Papierdokumenten
+
+---
+
+## Telearbeit
+
+
