@@ -4,3 +4,6 @@
 [submodule "school/presentation/creately/revealjs"]
 	path = school/presentation/creately/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
+[submodule "school/presentation/its/revealjs"]
+	path = school/presentation/its/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
