@@ -10,7 +10,7 @@ Timo Hummer und Matteo Garbardi
 - Regelungsbereiche:
   - PC-Benutzungsregeln
   - Regeln für Internet- und E-Mail-Nutzung
-  - Verpflichtungserklärung (NDA/CDA) auf Datengeheimnis
+  - Einhalten der Verpflichtungserklärung auf Datengeheimnis
 
 ---
 
