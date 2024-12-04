@@ -14,9 +14,18 @@ Timo Hummer und Matteo Garbardi
 
 ## OpenSSH Suite
 
-- Meist benutzte Implementation von SSH-2
+<img src="./src/openssh.gif" alt="openssh logo" style="width:100%;">
+
+- Meist benutzte Implementation von `ssh-2`
 - Besteht aus Server und Client
-- Von entwicklern des OpenBSD Projekts
+- Von den Entwicklern des `OpenBSD` Projekts
+
+```bash [1-2|1]
+[example@os:~]$ ssh user@address -p <PORT>
+[matteo@nixos:~]$ ssh matteo@192.168.99.1 -p 22
+```
+
+---
 
 ## Verbindungsaufbau
 
@@ -42,7 +51,7 @@ Bestandteile:
 
 --
 
-<img src="./src/ssh_packet.png" alt="ssh connection" style="width:100%;">
+<img src="./src/ssh_packet.png" alt="ssh packet" style="width:100%;">
 
 ---
 
