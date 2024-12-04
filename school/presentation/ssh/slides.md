@@ -16,10 +16,27 @@ Secure Shell
 
 1. Client initiiert TCP-Verbindung (meist Port 22)
 2. Server reagiert und beginnt Handshake-Prozess
+3. `...`
 
 --
 
 <img src="./src/ssh_connection.png" alt="ssh connection" style="width:130%;">
+
+---
+
+## SSH Paket Header
+
+Bestandteile:
+
+- packet length
+- padding length
+- payload
+- random padding
+- mac (Message Authentication Code)
+
+--
+
+<img src="./src/ssh_packet.png" alt="ssh connection" style="width:100%;">
 
 ---
 
@@ -49,6 +66,7 @@ Secure Shell
 ## Benutzerauthentifizierung
 
 Methoden:
+
 - Passwort-Authentifizierung
 - Public-Key-Authentifizierung
 - Mehrfaktor-Authentifizierung
@@ -70,21 +88,6 @@ Format: `SSH-protoversion-softwareversion SP comments CR LF`
 - Protoversion: "2.0"
 - Softwareversion: US-ASCII, max. 255 Zeichen
 - Comments: Optional
-
----
-
-## SSH Paket Header
-
-Bestandteile:
-- packet_length
-- padding_length
-- payload
-- random padding
-- mac (Message Authentication Code)
-
---
-
-<img src="./src/ssh_packet.png" alt="ssh connection" style="width:100%;">
 
 ---
 
