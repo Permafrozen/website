@@ -15,13 +15,13 @@ Timo Hummer und Matteo Garbardi
 
 ## OpenSSH Suite
 
-<img src="./src/openssh.gif" alt="openssh logo" style="width:100%;">
+<img src="./src/openssh.gif" alt="openssh logo" style="width:50%;">
 
 - Meist benutzte Implementation von `ssh-2`
 - Besteht aus Server und Client
 - Von den Entwicklern des `OpenBSD`-Projekt
 
-```bash [1-2|1]
+```console [1-2|1]
 [example@os:~]$ ssh user@address -p <PORT>
 [matteo@nixos:~]$ ssh matteo@192.168.99.1 -p 22
 ```
@@ -131,6 +131,8 @@ Methoden:
 - blowfish-cbc, twofish-cbc, serpent-cbc
 - idea-cbc, cast128-cbc, arcfour
 - none (nicht empfohlen)
+
+---
 
 # Praktisches Beispiel
 
