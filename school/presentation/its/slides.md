@@ -28,6 +28,7 @@ Timo Hummer und Matteo Garbardi
 ## Verfahren bei Personellen Veränderungen
 
 Grundlegende Punkte:
+
 - Rückgabe von Unterlagen, Schlüsseln und IT-Geräten
 - Anpassung oder Entzug von Zugangsberechtigungen
 - Änderung geteilter Zugangsberechtigungen
@@ -53,17 +54,77 @@ Grundlegende Punkte:
 
 ---
 
-## Abwehr von Social Engineering Angriffen
+## Abwehr von Social Engineering-Angriffen
+
+- Angriffe meist per Telefon oder soziale Netzwerke
+- Täter gibt sich als Mitarbeiter oder IT-Fachkraft aus
+
+--
+
+## Hauptziel von Social Engineering
+
+- Unaufgeklärte Mitarbeiter ausnutzen
+- Beeinflussung zu sicherheitswidrigem Handeln
+
+--
+
+## Ausgenutzte Emotionen bei Social Engineering
+
+- Hilfsbereitschaft
+- Höflichkeit
+- Autoritätshörigkeit
+- Kundenfreundlichkeit
+- Angst
+
+
+--
+
+## *Helfende Maßnahmen:* Schulungen
+
+- Schulungen über Social Engineering-Strategien
+- Bewusstmachung des Werts der bearbeiteten Daten
+- Information anderer Mitarbeiter bei Verdacht
+
+--
+
+## *Helfende Maßnahmen:* Informationssicherheit
+
+- Schriftliche Festlegung vertraulicher Informationen
+- Rückrufnummern für Anfragen
 
 ---
 
-## Clear Desk/ Clear Screen Policy
+## Clear Desk / Clear Screen Policy
 
----
+- Verschließen vertraulicher Unterlagen
+- PC ausschalten oder sperren bei Verlassen des Arbeitsplatzes
+- Passwortgeschützter Bildschirmschoner nach Inaktivität
+- Aufklärung über Tastenkombinationen (z.B. WIN+L)
+- Regelmäßige Kontrollen und Ermahnungen
 
-## Entsorgung von Datenträgern und Papierdokumenten
+--
+
+## Entsorgung von Datenträgern
+
+- Schutz gegen Dumpster Diving
+- Vernichtung sensibler Dokumente über Schredder
 
 ---
 
 ## Telearbeit
 
+- **Definition:** *Arbeiten außerhalb des Unternehmensstandorts*
+
+- **Anforderungen:**
+  - Separates Zimmer und sichere Datenaufbewahrung
+  - Aktuelle Sicherheitssoftware erforderlich
+
+--
+
+## *Telearbeit:* Nutzung von Geräten
+
+- Nutzungsbeschränkungen bei Firmen-PCs
+- Sicherheitsrichtlinien für BYOD
+- Schriftliche Richtlinien für Mitarbeitende
+
+## Praktisches Beispiel
