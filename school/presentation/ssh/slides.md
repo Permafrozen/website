@@ -1,17 +1,114 @@
-# SSH: Secure Shell
+# SSH
 
-This is a Reveal.js presentation using Markdown!
+Secure Shell
 
 ---
 
+## Was ist SSH?
+
+- Secure Shell (SSH)
+- Sicheres Protokoll für Client-Server-Verbindungen
+- Ermöglicht verschlüsselte Kommunikation über unsichere Netzwerke
+
+---
+
+## Verbindungsaufbau
+
+1. Client initiiert TCP-Verbindung (meist Port 22)
+2. Server reagiert und beginnt Handshake-Prozess
+
+--
 
 <img src="./src/ssh_connection.png" alt="ssh connection" style="width:130%;">
 
+---
+
+## Protokoll- und Algorithmusverhandlung
+
+- Server sendet Liste unterstützter Versionen und Algorithmen
+- Client wählt kompatible Optionen
+- Einigung auf Protokollversion und Verschlüsselungsmethoden
 
 ---
 
-## Slide 3
+## Schlüsselaustausch
+
+- Sicherer Algorithmus (z.B. Diffie-Hellman) für Sitzungsschlüssel
+- Austausch von Algorithmus-Präferenzen
+- Server-Authentifizierung mittels öffentlichem Schlüssel
 
 ---
 
-## Slide 4
+## Sitzungsverschlüsselung
+
+- Gemeinsamer Sitzungsschlüssel für symmetrische Verschlüsselung
+- Sichert die gesamte folgende Kommunikation
+
+---
+
+## Benutzerauthentifizierung
+
+Methoden:
+- Passwort-Authentifizierung
+- Public-Key-Authentifizierung
+- Mehrfaktor-Authentifizierung
+
+---
+
+## Sitzungsanfrage und Interaktion
+
+- Client fordert spezifische Dienste an
+- Server verarbeitet Anfragen
+- Einrichtung von Kommunikationskanälen
+
+---
+
+## Protokollversions-Austausch
+
+Format: `SSH-protoversion-softwareversion SP comments CR LF`
+
+- Protoversion: "2.0"
+- Softwareversion: US-ASCII, max. 255 Zeichen
+- Comments: Optional
+
+---
+
+## SSH Paket Header
+
+Bestandteile:
+- packet_length
+- padding_length
+- payload
+- random padding
+- mac (Message Authentication Code)
+
+--
+
+<img src="./src/ssh_packet.png" alt="ssh connection" style="width:100%;">
+
+---
+
+## Komprimierung
+
+- Nur Payload-Feld wird komprimiert
+- Methoden: none, zlib
+- Max. Payload-Größe: 32768 Bytes
+- Max. Paketgröße: 35000 Bytes (variabel)
+
+---
+
+## Verschlüsselung
+
+- Aushandlung während Schlüsselaustausch
+- Unabhängige Verschlüsselung in beide Richtungen
+- Mindestens 128-Bit-Schlüssel empfohlen
+
+---
+
+## Verschlüsselungsmethoden
+
+- 3des-cbc (veraltet)
+- aes128/192/256-cbc
+- blowfish-cbc, twofish-cbc, serpent-cbc
+- idea-cbc, cast128-cbc, arcfour
+- none (nicht empfohlen)
