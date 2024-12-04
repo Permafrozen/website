@@ -19,7 +19,7 @@ Timo Hummer und Matteo Garbardi
 
 - Meist benutzte Implementation von `ssh-2`
 - Besteht aus Server und Client
-- Von den Entwicklern des `OpenBSD` Projekts
+- Von den Entwicklern des `OpenBSD`-Projekt
 
 ```bash [1-2|1]
 [example@os:~]$ ssh user@address -p <PORT>
