@@ -1,22 +1,17 @@
-# Welcome to My Presentation
+# SSH: Secure Shell
 
 This is a Reveal.js presentation using Markdown!
 
 ---
 
-## Slide 2
+## SSh-Verbindung
 
-You can use Markdown syntax, like **bold text** or _italic text_.
+<img src="./src/ssh_connection.png" alt="ssh connection" style="width:70%;">
+
 
 ---
 
 ## Slide 3
-
-Include code snippets:
-
-```python
-print("Hello, Reveal.js with Markdown!")
-```
 
 ---
 
