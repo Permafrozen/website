@@ -137,3 +137,9 @@ Methoden:
   - `open ssh 9.9/9.9p1`
   - `NixOS` (Server und Client)
   - lokales Netzwerk
+
+## Quellen
+
+- **RFC 4253:** https://www.rfc-editor.org/rfc/rfc4253
+- **OpenSSH:** https://www.openssh.com/manual.html
+- **reveal.js:** https://revealjs.com/
