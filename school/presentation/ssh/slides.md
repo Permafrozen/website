@@ -21,11 +21,6 @@ Timo Hummer und Matteo Garbardi
 - Besteht aus Server und Client
 - Von den Entwicklern des `OpenBSD`-Projekt
 
-```console [1-2|1]
-[example@os:~]$ ssh user@address -p <PORT>
-[matteo@nixos:~]$ ssh matteo@192.168.99.1 -p 22
-```
-
 ---
 
 ## Verbindungsaufbau
@@ -134,11 +129,11 @@ Methoden:
 
 ---
 
-# Praktisches Beispiel
+## Praktisches Beispiel
 
 - Verbindung zwischen Client und Server (Laptops)
 
-**Verwendete Software:**
-- `open ssh 9.9/9.9p1`
-- `NixOS` (Server und Client)
-- lokales Netzwerk
+- **Verwendete Software:**
+  - `open ssh 9.9/9.9p1`
+  - `NixOS` (Server und Client)
+  - lokales Netzwerk
