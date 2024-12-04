@@ -1,6 +1,6 @@
 # SSH
 
-Secure Shell
+Timo Hummer und Matteo Garbardi
 
 ---
 
@@ -11,6 +11,12 @@ Secure Shell
 - Ermöglicht verschlüsselte Kommunikation über unsichere Netzwerke
 
 ---
+
+## OpenSSH Suite
+
+- Meist benutzte Implementation von SSH-2
+- Besteht aus Server und Client
+- Von entwicklern des OpenBSD Projekts
 
 ## Verbindungsaufbau
 
@@ -48,10 +54,20 @@ Bestandteile:
 
 ---
 
+## Protokollversions-Austausch
+
+Format: `SSH-protoversion-softwareversion SP comments CR LF`
+
+- Protoversion: "2.0"
+- Softwareversion: US-ASCII, max. 255 Zeichen
+- Comments: Optional
+
+---
+
 ## Schlüsselaustausch
 
+- Austausch von Verschlüsselungsalgorithmus-Präferenzen
 - Sicherer Algorithmus (z.B. Diffie-Hellman) für Sitzungsschlüssel
-- Austausch von Algorithmus-Präferenzen
 - Server-Authentifizierung mittels öffentlichem Schlüssel
 
 ---
@@ -63,16 +79,6 @@ Bestandteile:
 
 ---
 
-## Benutzerauthentifizierung
-
-Methoden:
-
-- Passwort-Authentifizierung
-- Public-Key-Authentifizierung
-- Mehrfaktor-Authentifizierung
-
----
-
 ## Sitzungsanfrage und Interaktion
 
 - Client fordert spezifische Dienste an
@@ -81,13 +87,13 @@ Methoden:
 
 ---
 
-## Protokollversions-Austausch
+## Benutzerauthentifizierung
 
-Format: `SSH-protoversion-softwareversion SP comments CR LF`
+Methoden:
 
-- Protoversion: "2.0"
-- Softwareversion: US-ASCII, max. 255 Zeichen
-- Comments: Optional
+- Passwort-Authentifizierung
+- Public-Key-Authentifizierung
+- Mehrfaktor-Authentifizierung
 
 ---
 
@@ -115,3 +121,6 @@ Format: `SSH-protoversion-softwareversion SP comments CR LF`
 - blowfish-cbc, twofish-cbc, serpent-cbc
 - idea-cbc, cast128-cbc, arcfour
 - none (nicht empfohlen)
+
+# Praktisches Beispiel
+
