@@ -7,6 +7,7 @@ Timo Hummer und Matteo Garbardi
 ## Was ist SSH?
 
 - Secure Shell (SSH)
+- ersetzte `telnet`
 - Sicheres Protokoll für Client-Server-Verbindungen
 - Ermöglicht verschlüsselte Kommunikation über unsichere Netzwerke
 
