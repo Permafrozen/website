@@ -6,7 +6,7 @@ Timo Hummer und Matteo Garbardi
 
 ## Was ist SSH?
 
-- Secure Shell (SSH)
+- Secure Shell **(SSH)**
 - ersetzte Klartextprotokolle (`telnet`)
 - Sicheres Protokoll für Client-Server-Verbindungen
 - Ermöglicht verschlüsselte Kommunikation über unsichere Netzwerke
@@ -121,7 +121,7 @@ Methoden:
 
 ## Verschlüsselungsmethoden
 
-- 3des-cbc (veraltet)
+- 3des-cbc **(veraltet)**
 - aes128/192/256-cbc
 - blowfish-cbc, twofish-cbc, serpent-cbc
 - idea-cbc, cast128-cbc, arcfour
@@ -137,6 +137,8 @@ Methoden:
   - `open ssh 9.9/9.9p1`
   - `NixOS` (Server und Client)
   - lokales Netzwerk
+
+---
 
 ## Quellen
 
