@@ -71,7 +71,7 @@ Format: `SSH-protoversion-softwareversion SP comments CR LF`
 
 ## Schlüsselaustausch
 
-- Austausch von Verschlüsselungsalgorithmus-Präferenzen
+- Austausch von Algorithmus-Präferenzen
 - Sicherer Algorithmus (z.B. Diffie-Hellman) für Sitzungsschlüssel
 - Server-Authentifizierung mittels öffentlichem Schlüssel
 
