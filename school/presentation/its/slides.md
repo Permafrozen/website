@@ -76,10 +76,9 @@ Grundlegende Punkte:
 - Kundenfreundlichkeit
 - Angst
 
-
 --
 
-## *Helfende Maßnahmen:* Schulungen
+## _Helfende Maßnahmen:_ Schulungen
 
 - Schulungen über Social Engineering-Strategien
 - Bewusstmachung des Werts der bearbeiteten Daten
@@ -87,7 +86,7 @@ Grundlegende Punkte:
 
 --
 
-## *Helfende Maßnahmen:* Informationssicherheit
+## _Helfende Maßnahmen:_ Informationssicherheit
 
 - Schriftliche Festlegung vertraulicher Informationen
 - Rückrufnummern für Anfragen
@@ -113,7 +112,7 @@ Grundlegende Punkte:
 
 ## Telearbeit
 
-- **Definition:** *Arbeiten außerhalb des Unternehmensstandorts*
+- **Definition:** _Arbeiten außerhalb des Unternehmensstandorts_
 
 - **Anforderungen:**
   - Separates Zimmer und sichere Datenaufbewahrung
@@ -121,10 +120,12 @@ Grundlegende Punkte:
 
 --
 
-## *Telearbeit:* Nutzung von Geräten
+## _Telearbeit:_ Nutzung von Geräten
 
 - Nutzungsbeschränkungen bei Firmen-PCs
 - Sicherheitsrichtlinien für BYOD
 - Schriftliche Richtlinien für Mitarbeitende
+
+---
 
 ## Praktisches Beispiel
