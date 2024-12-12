@@ -78,7 +78,7 @@ Grundlegende Punkte:
 
 --
 
-## _Helfende Maßnahmen:_ Schulungen
+## Helfende Maßnahme: Schulungen
 
 - Schulungen über Social Engineering-Strategien
 - Bewusstmachung des Werts der bearbeiteten Daten
@@ -86,7 +86,7 @@ Grundlegende Punkte:
 
 --
 
-## _Helfende Maßnahmen:_ Informationssicherheit
+## Helfende Maßnahmen: Informationssicherheit
 
 - Schriftliche Festlegung vertraulicher Informationen
 - Rückrufnummern für Anfragen
@@ -120,7 +120,7 @@ Grundlegende Punkte:
 
 --
 
-## _Telearbeit:_ Nutzung von Geräten
+## Nutzung von Geräten
 
 - Nutzungsbeschränkungen bei Firmen-PCs
 - Sicherheitsrichtlinien für BYOD
@@ -128,4 +128,6 @@ Grundlegende Punkte:
 
 ---
 
-## Praktisches Beispiel
+## Praktisches Beispiel (Fallbeispiel)
+
+...
